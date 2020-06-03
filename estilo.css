@@ -1,0 +1,13 @@
+.dialog{
+
+    color: #fff;
+    background-color: rgb(88, 90, 228);
+    border: 2px solid rgb(248, 248, 248, 0.4);
+}
+.dialog button{
+    background-color: #fff;
+    border: 1px solid rgb(37, 106, 235, 0.4);
+    border-radius: 15px;
+    width: 100px;
+    height: 40px;
+}
